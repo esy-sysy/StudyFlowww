@@ -82,8 +82,11 @@ body{
 }
 
 .header h1{
-    font-size:38px;
+    font-family:'VT323', monospace;
+    font-size:58px;
+    letter-spacing:2px;
     margin-bottom:5px;
+    line-height:1;
 }
 
 .header p{
